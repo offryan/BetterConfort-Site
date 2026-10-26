@@ -8,3 +8,7 @@
 
 ## EXEMPLO DE PRODUTOS
 ![image](https://user-images.githubusercontent.com/85769101/182483464-7083932e-561d-46c9-a5b7-152d29b59b64.png)
+
+## 📄 Licença
+
+© 2022-2026 Ryan G. Santos. Todos os direitos reservados. O código está público apenas para portfólio e avaliação: não é permitido copiar, modificar, distribuir ou usar comercialmente sem autorização por escrito. Veja o arquivo [LICENSE](LICENSE).
